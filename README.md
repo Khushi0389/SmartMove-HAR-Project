@@ -37,6 +37,7 @@ We use the [UCI HAR Dataset](https://archive.ics.uci.edu/dataset/240/human+activ
 ```bash
 jupyter notebook SmartMove_HAR.ipynb
 
+
 ## 📈 Results
 
 | Model | Accuracy |

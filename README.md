@@ -1,4 +1,3 @@
-```markdown
 # 🧠 SmartMove: AI-Based Human Activity Recognition using Smartphone Sensors
 
 SmartMove is a machine learning-based Human Activity Recognition (HAR) system that uses smartphone sensor data (accelerometer and gyroscope) to classify six common human activities:  
@@ -35,7 +34,7 @@ We use the [UCI HAR Dataset](https://archive.ics.uci.edu/dataset/240/human+activ
 2. Download the UCI HAR Dataset and place it in a `data/` folder as structured in the notebook  
 3. Run the Jupyter notebook:
 
-```bash
+bash
 jupyter notebook SmartMove_HAR.ipynb
 
 

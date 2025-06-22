@@ -28,6 +28,7 @@ We use the [UCI HAR Dataset](https://archive.ics.uci.edu/dataset/240/human+activ
 
 ---
 
+```markdown
 ## 🚀 How to Run
 
 1. Clone the repo  

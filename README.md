@@ -65,4 +65,4 @@ Confusion matrices are plotted for all models.
 
 📬 Author
 Khushi Gupta
-🌐 GitHub Profile
+🌐 https://github.com/Khushi0389

@@ -60,6 +60,7 @@ Confusion matrices are plotted for all models.
 ![KNN CM](knn_confusion.png)
 
 
+
 📬 Author
 Khushi Gupta
 🌐 GitHub Profile

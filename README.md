@@ -1,3 +1,4 @@
+```markdown
 # 🧠 SmartMove: AI-Based Human Activity Recognition using Smartphone Sensors
 
 SmartMove is a machine learning-based Human Activity Recognition (HAR) system that uses smartphone sensor data (accelerometer and gyroscope) to classify six common human activities:  
@@ -28,7 +29,6 @@ We use the [UCI HAR Dataset](https://archive.ics.uci.edu/dataset/240/human+activ
 
 ---
 
-```markdown
 ## 🚀 How to Run
 
 1. Clone the repo  

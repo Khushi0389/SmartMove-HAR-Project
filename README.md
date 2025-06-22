@@ -34,7 +34,8 @@ We use the [UCI HAR Dataset](https://archive.ics.uci.edu/dataset/240/human+activ
 2. Download the UCI HAR Dataset and place it in a `data/` folder as structured in the notebook  
 3. Run the Jupyter notebook:
 
-bash
+bash:
+
 jupyter notebook SmartMove_HAR.ipynb
 
 

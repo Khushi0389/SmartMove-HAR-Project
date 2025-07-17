@@ -6,6 +6,7 @@ SmartMove is a machine learning-based Human Activity Recognition (HAR) system th
 ## 📊 Overview
 
 This project applies three machine learning models:
+
 🟢 Random Forest
 🔵 Support Vector Machine (SVM)
 🔴 K-Nearest Neighbors (KNN)
